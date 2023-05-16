@@ -1,0 +1,3 @@
+PROPOS DRILLING é quando precisamos obter dados que estão em várias camadas, passando de um pro outro através de props, na imagem em anexo tem um desenho de props
+Contexto significa compatilhar um estado em uma árvores de componentes, passa dados através da árvore de componentes sem ter que passar o props manualmente a cada nível.
+Por exemplo: se o componente C precisa de alguma coisa do componente A, ele não precisa passar antes pelo B, pois através do contexto é passado dados pela árvore de componentes
